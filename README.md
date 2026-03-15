@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Utsav%20Raj%20Pratik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Utsav Raj Pratik</h1>
+<h1 align="center">Hi 👋, I'm Utsav Raj Pratik</h1>
 <h3 align="center">🚀 AI & ML Explorer | Data Science Enthusiast | Web Developer</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 # 🧠 About Me
 
-🎓 **B.Tech in Artificial Intelligence & Machine Learning**
+🎓 B.Tech in **Artificial Intelligence & Machine Learning**
 
 🔬 Currently exploring
 
@@ -172,4 +172,4 @@ Tech: Python • NLP • Machine Learning
 
 ---
 
-⭐️ **From Utsav Raj Pratik**
+⭐ From **Utsav Raj Pratik**
