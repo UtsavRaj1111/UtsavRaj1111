@@ -44,9 +44,7 @@ I enjoy building **projects that solve real-world problems**
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="mailto:utsavrajpratik@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
+
 
 <a href="https://leetcode.com/u/Utsavrajpratik/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode" height="50"/>
