@@ -99,16 +99,14 @@ I enjoy building **projects that solve real-world problems**
 
 # 🚀 Featured Projects
 
-## 🤖 CodeMate
-
+## 🤖  CodeMate — LLM Powered Coding Assistant
 AI-powered coding assistant helping developers generate and understand code.
 
 Tech: Python • AI/ML • Backend
 
 ---
 
-## 🧠 NLP Rental Contract Summarizer
-
+## 🧠NLP Contract Summarizer for Rental Agreements
 NLP system that summarizes rental contracts and extracts important information.
 
 Tech: Python • NLP • Machine Learning
