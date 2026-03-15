@@ -40,19 +40,20 @@ I enjoy building **projects that solve real-world problems**
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/utsav-raj-pratik-77120a34a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/utsav-raj-pratik-77120a34a/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="mailto:utsavrajpratik@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-<a href="https://leetcode.com/u/Utsavrajpratik/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/Utsavrajpratik/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" height="50"/>
 </a>
 
 </p>
+
 
 ---
 
