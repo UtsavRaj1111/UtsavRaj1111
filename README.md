@@ -59,22 +59,10 @@ I enjoy building **projects that solve real-world problems**
 
 # 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-Glassmorphism%20Style-0f2027?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
 ### 👨‍💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=python,java,js"/>
 </p>
 
 ---
@@ -82,17 +70,7 @@ I enjoy building **projects that solve real-world problems**
 ### ⚙️ Frameworks & Libraries
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,flask,fastapi,django,tensorflow,nodejs,ts&theme=dark"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
+<img src="https://skillicons.dev/icons?i=react,flask,fastapi,django,tensorflow,nodejs,ts"/>
 </p>
 
 ---
@@ -100,13 +78,7 @@ I enjoy building **projects that solve real-world problems**
 ### 🌐 Web
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
 ---
@@ -114,12 +86,7 @@ I enjoy building **projects that solve real-world problems**
 ### 🗄 Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 ---
@@ -127,15 +94,8 @@ I enjoy building **projects that solve real-world problems**
 ### 🧰 Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=github,git,gitlab&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=github,git,gitlab"/>
 </p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab"/>
-</p>
-
 
 # 🚀 Featured Projects
 
