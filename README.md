@@ -141,13 +141,12 @@ Tech: Python • NLP • Machine Learning
 
 ---
 
-# 🐍 Contribution Snake
+# 🟡 Pac-Man Contribution Game
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/UtsavRaj1111/UtsavRaj1111/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/UtsavRaj1111/UtsavRaj1111/output/pacman-contribution-graph.svg"/>
 </p>
 
----
 
 # 💻 Coding Animation
 
