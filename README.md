@@ -5,49 +5,81 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Utsav Raj Pratik</h1>
-<h3 align="center">🚀 AI/ML Engineer in Progress | Building Real-World Intelligent Systems</h3>
+<h3 align="center">🚀 AI/ML Engineer | Building Intelligent Systems | Future Innovator</h3>
 
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+Projects+That+Matter+🚀;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+ML+Engineer+in+Progress;Full+Stack+Developer;Problem+Solver;Building+Impactful+Products+🚀;Open+Source+Contributor"/>
 </p>
 
 ---
 
 # 🧠 About Me
 
-🎓 B.Tech Student in **Artificial Intelligence & Machine Learning**
+🎓 B.Tech in **Artificial Intelligence & Machine Learning**
 
-💡 Passionate about building **AI-powered systems that solve real-world problems**
+💡 I build **AI-powered tools, automation systems, and scalable applications**
 
-🚀 Currently Working On:
+🚀 Currently focused on:
 
-* 🤖 AI Interview Platform (PrepWise)
-* 🔄 Automation Tools (CodeSync Extension)
-* 🧠 NLP-based Systems
-
-📈 Learning Focus:
-
-* Machine Learning & Deep Learning
-* Data Structures & Algorithms
-* System Design
-
-⚡ Fun Fact:
-I turn **ideas into real working products** 💻🔥
+* 🤖 AI Systems & NLP
+* ⚙️ Backend Development
+* 🧠 Problem Solving (DSA + System Design)
 
 ---
 
-# 🌐 Connect With Me
+# 💼 Professional Snapshot
+
+* 🧠 AI/ML Enthusiast with hands-on projects
+* ⚡ Strong in backend + automation systems
+* 📊 Experience with real-world problem solving
+* 🚀 Building products, not just projects
+
+---
+
+# 🚀 Featured Projects
+
+## 🔥 CodeSync – GitHub Automation Extension
+
+🔗 https://github.com/UtsavRaj1111
+
+* Auto pushes LeetCode & HackerRank code to GitHub
+* Chrome Extension + GitHub API
+* Real-world automation tool
+
+---
+
+## 🧠 PrepWise – AI Interview Platform
+
+🔗 https://github.com/UtsavRaj1111/PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform
+
+* AI-based interview practice system
+* NLP-powered feedback engine
+* Performance tracking
+
+---
+
+## 📄 NLP Contract Summarizer
+
+🔗 https://github.com/UtsavRaj1111/NLP-contract-summarizer-for-rental-agreements
+
+* Extracts key clauses from agreements
+* NLP + Machine Learning based
+* Simplifies legal understanding
+
+---
+
+# 🖼️ Project Showcase
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/utsav-raj-pratik-77120a34a/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<a href="https://github.com/UtsavRaj1111/PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavRaj1111&repo=PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform&theme=tokyonight"/>
 </a>
 
-<a href="https://leetcode.com/u/Utsavrajpratik/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="50"/>
+<a href="https://github.com/UtsavRaj1111/NLP-contract-summarizer-for-rental-agreements">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavRaj1111&repo=NLP-contract-summarizer-for-rental-agreements&theme=tokyonight"/>
 </a>
 
 </p>
@@ -56,104 +88,8 @@ I turn **ideas into real working products** 💻🔥
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts"/>
-</p>
-
----
-
-### ⚙️ Frameworks & Libraries
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,django,tensorflow"/>
-</p>
-
----
-
-### 🗄️ Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
----
-
-### 🧰 Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🔥 CodeSync — Auto GitHub Push Extension
-
-Automatically pushes your LeetCode & HackerRank solutions to GitHub.
-
-**Tech:** JavaScript • Chrome Extension • GitHub API
-
----
-
-## 🧠 PrepWise — AI Interview Platform
-
-AI-powered system for interview practice with feedback and performance tracking.
-
-**Tech:** AI/ML • NLP • Full Stack
-
----
-
-## 📄 NLP Contract Summarizer
-
-Summarizes rental agreements into simple insights using NLP.
-
-**Tech:** Python • NLP • Machine Learning
-
----
-
-# 🏆 Achievements & Stats
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=UtsavRaj1111&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=UtsavRaj1111&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavRaj1111&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 Streak Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavRaj1111&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavRaj1111&theme=tokyo-night"/>
-</p>
-
----
-
-# 🟡 Pac-Man Contribution Game
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/UtsavRaj1111/UtsavRaj1111/output/pacman-contribution-graph.svg"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,flask,fastapi,django,mongodb,mysql,git,github"/>
 </p>
 
 ---
@@ -163,7 +99,23 @@ Summarizes rental agreements into simple insights using NLP.
 * 🚀 Crack top tech internships
 * 🧠 Master AI/ML & System Design
 * 🌍 Build impactful real-world products
-* 📈 Grow as an open-source contributor
+* 📈 Contribute to open-source
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/utsav-raj-pratik-77120a34a/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://leetcode.com/u/Utsavrajpratik/">
+<img src="https://cdn.simpleicons.org/leetcode" height="50"/>
+</a>
+
+</p>
 
 ---
 
@@ -175,7 +127,7 @@ Summarizes rental agreements into simple insights using NLP.
 
 ---
 
-# 🧠 Developer Quote
+# 🧠 Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -192,5 +144,5 @@ Summarizes rental agreements into simple insights using NLP.
 ---
 
 <p align="center">
-⭐ From <b>Utsav Raj Pratik</b>
+⭐ <b>Let’s build something impactful</b>
 </p>
