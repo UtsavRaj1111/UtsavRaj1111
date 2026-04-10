@@ -70,21 +70,7 @@
 
 ---
 
-# 🖼️ Project Showcase
 
-<p align="center">
-
-<a href="https://github.com/UtsavRaj1111/PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavRaj1111&repo=PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/UtsavRaj1111/NLP-contract-summarizer-for-rental-agreements">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavRaj1111&repo=NLP-contract-summarizer-for-rental-agreements&theme=tokyonight"/>
-</a>
-
-</p>
-
----
 
 # 🛠️ Tech Stack
 
