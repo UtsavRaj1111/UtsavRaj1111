@@ -1,38 +1,40 @@
-<!-- Animated Header -->
+<!-- 🔥 Animated Header -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Utsav%20Raj%20Pratik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Utsav%20Raj%20Pratik&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Utsav Raj Pratik</h1>
-<h3 align="center">🚀 AI & ML Explorer | Data Science Enthusiast | Web Developer</h3>
+<h3 align="center">🚀 AI/ML Engineer in Progress | Building Real-World Intelligent Systems</h3>
+
+---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=B.Tech+Student+in+AI+%26+ML;Machine+Learning+Explorer;Data+Science+Enthusiast;Backend+Developer;Building+AI+Projects+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+Projects+That+Matter+🚀;Open+Source+Contributor"/>
 </p>
 
 ---
 
 # 🧠 About Me
 
-🎓 B.Tech in **Artificial Intelligence & Machine Learning**
+🎓 B.Tech Student in **Artificial Intelligence & Machine Learning**
 
-🔬 Currently exploring
+💡 Passionate about building **AI-powered systems that solve real-world problems**
 
-• Machine Learning
-• Data Science
-• Backend Development
+🚀 Currently Working On:
 
-💡 Interests
+* 🤖 AI Interview Platform (PrepWise)
+* 🔄 Automation Tools (CodeSync Extension)
+* 🧠 NLP-based Systems
 
-• Artificial Intelligence
-• Machine Learning
-• Data Science
-• Open Source
+📈 Learning Focus:
 
-⚡ Fun Fact
+* Machine Learning & Deep Learning
+* Data Structures & Algorithms
+* System Design
 
-I enjoy building **projects that solve real-world problems**
+⚡ Fun Fact:
+I turn **ideas into real working products** 💻🔥
 
 ---
 
@@ -44,23 +46,20 @@ I enjoy building **projects that solve real-world problems**
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-
-
 <a href="https://leetcode.com/u/Utsavrajpratik/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode" height="50"/>
 </a>
 
 </p>
 
-
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts"/>
 </p>
 
 ---
@@ -68,20 +67,12 @@ I enjoy building **projects that solve real-world problems**
 ### ⚙️ Frameworks & Libraries
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,flask,fastapi,django,tensorflow,nodejs,ts"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,django,tensorflow"/>
 </p>
 
 ---
 
-### 🌐 Web
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
-
----
-
-### 🗄 Databases
+### 🗄️ Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
@@ -89,29 +80,41 @@ I enjoy building **projects that solve real-world problems**
 
 ---
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=github,git,gitlab"/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel"/>
 </p>
+
+---
 
 # 🚀 Featured Projects
 
-## 🤖  CodeMate — LLM Powered Coding Assistant
-AI-powered coding assistant helping developers generate and understand code.
+## 🔥 CodeSync — Auto GitHub Push Extension
 
-Tech: Python • AI/ML • Backend
+Automatically pushes your LeetCode & HackerRank solutions to GitHub.
 
----
-
-## 🧠NLP Contract Summarizer for Rental Agreements
-NLP system that summarizes rental contracts and extracts important information.
-
-Tech: Python • NLP • Machine Learning
+**Tech:** JavaScript • Chrome Extension • GitHub API
 
 ---
 
-# 🏆 GitHub Achievements
+## 🧠 PrepWise — AI Interview Platform
+
+AI-powered system for interview practice with feedback and performance tracking.
+
+**Tech:** AI/ML • NLP • Full Stack
+
+---
+
+## 📄 NLP Contract Summarizer
+
+Summarizes rental agreements into simple insights using NLP.
+
+**Tech:** Python • NLP • Machine Learning
+
+---
+
+# 🏆 Achievements & Stats
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=UtsavRaj1111&theme=algolia&no-frame=true&row=1&column=7"/>
@@ -119,7 +122,7 @@ Tech: Python • NLP • Machine Learning
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -131,7 +134,7 @@ Tech: Python • NLP • Machine Learning
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Streak Stats
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavRaj1111&theme=tokyonight"/>
@@ -139,7 +142,7 @@ Tech: Python • NLP • Machine Learning
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavRaj1111&theme=tokyo-night"/>
@@ -153,8 +156,18 @@ Tech: Python • NLP • Machine Learning
 <img src="https://raw.githubusercontent.com/UtsavRaj1111/UtsavRaj1111/output/pacman-contribution-graph.svg"/>
 </p>
 
+---
 
-# 💻 Coding Animation
+# 🎯 Current Goals
+
+* 🚀 Crack top tech internships
+* 🧠 Master AI/ML & System Design
+* 🌍 Build impactful real-world products
+* 📈 Grow as an open-source contributor
+
+---
+
+# 💻 Coding Vibes
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
@@ -162,7 +175,7 @@ Tech: Python • NLP • Machine Learning
 
 ---
 
-# 🧠 Random Developer Quote
+# 🧠 Developer Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -170,7 +183,7 @@ Tech: Python • NLP • Machine Learning
 
 ---
 
-# 👀 Profile Visitors
+# 👀 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=UtsavRaj1111&label=Profile%20Views&color=blue&style=flat"/>
@@ -178,4 +191,6 @@ Tech: Python • NLP • Machine Learning
 
 ---
 
-⭐ From **Utsav Raj Pratik**
+<p align="center">
+⭐ From <b>Utsav Raj Pratik</b>
+</p>
