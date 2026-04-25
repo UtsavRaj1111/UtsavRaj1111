@@ -1,192 +1,242 @@
-<!-- 🔥 Custom Profile Header -->
-<p align="center">
-  <img src="./assets/profile_header_banner.png" width="100%" alt="Utsav Raj Pratik Header" />
-</p>
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║            UTSAV RAJ PRATIK — PROFESSIONAL GITHUB PROFILE        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<h1 align="center">Hi 👋, I'm Utsav Raj Pratik</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+ML+Engineer+in+Progress;Full+Stack+Developer;Problem+Solver;Building+Impactful+Products+🚀;Open+Source+Contributor"/>
-</p>
+<!-- ░░░░░░░░░  ANIMATED HEADER  ░░░░░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Utsav%20Raj%20Pratik&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI/ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=60&descSize=20"/>
 
----
+<br/>
 
-### 🧠 About Me
-🎓 **B.Tech in Artificial Intelligence & Machine Learning**
-
-I am an **AI/ML Engineer** with a passion for building intelligent systems that solve real-world problems. My expertise lies in developing **NLP-driven applications**, **scalable backend architectures**, and **automation tools** that enhance productivity. I believe in building *products*, not just projects.
-
-- 🤖 **Focusing on:** AI Systems, Natural Language Processing, and LLM Integrations.
-- ⚙️ **Core Tech:** Python, Java, and Full-Stack development with a focus on scalable backends.
-- 🧠 **Problem Solving:** Passionate about Data Structures, Algorithms, and System Design.
-- 🌍 **Mission:** To bridge the gap between complex AI research and user-friendly products.
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtsavRaj1111&show_icons=true&theme=tokyonight&count_private=true" alt="Utsav's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavRaj1111&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavRaj1111&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<!-- CodeSync Card -->
+<!-- ░░░░░░░░░  GREETING + COMPANION  ░░░░░░░░░ -->
 <div align="center">
-  <a href="https://github.com/UtsavRaj1111/CodeSync">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🔥%20CodeSync&fontSize=35&fontColor=ffffff&fontAlignY=50" width="400" />
+  <h2>
+    <b>Hi there, I'm Utsav!</b>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3/qgQUggAC3Pfv687qPC/giphy.gif" width="70" alt="Dev"/>
+  </h2>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=40&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Problem+Solver;Building+Impactful+Products+🚀;Open+Source+Contributor" alt="Typing SVG" />
   </a>
-  <p><i>Auto-pushes LeetCode & HackerRank submissions to your GitHub repositories instantly.</i></p>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Automation-FF6F61?style=flat-square" />
-  </p>
-  <a href="https://github.com/UtsavRaj1111/CodeSync"><b>View Repository</b></a> • <a href="https://github.com/UtsavRaj1111/CodeSync#demo"><b>Watch Demo</b></a>
 </div>
 
 <br/>
 
-<!-- PrepWise Card -->
+---
+
+<!-- ░░░░░░░░░  ABOUT ME  ░░░░░░░░░ -->
+<h2 align="center">⚡ About Me</h2>
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation"/>
+
+<br/>
+
+- 🎓 &nbsp;**B.Tech AI & ML Student** — building intelligent solutions with code
+- 💻 &nbsp;**AI / ML Engineer** — specializing in NLP, LLMs, and behavioral AI
+- ⚙️ &nbsp;**Full Stack Developer** — Python, Java, React, Node.js, FastAPI, Flask
+- 🤖 &nbsp;**Currently Building** — [PrepWise](https://github.com/UtsavRaj1111/PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform), an AI-driven interview platform
+- 🧠 &nbsp;**Passionate about** — System Design, Scalable Backends, and Data Structures
+- 🌍 &nbsp;**Goal** — To bridge the gap between AI research and user-centric products
+- ⚡ &nbsp;**Fun Fact**: I spend more time naming my variables than actually coding them.
+
+<br clear="right"/>
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░  TECH STACK  ░░░░░░░░░ -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h4 align="center">🎨 Frontend</h4>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,vite,figma&theme=dark&perline=8" />
+  </a>
+</div>
+
+<br/>
+
+<h4 align="center">⚙️ Backend & Databases</h4>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,django,mongodb,mysql,postgres,sqlite,firebase,supabase&theme=dark&perline=8" />
+  </a>
+</div>
+
+<br/>
+
+<h4 align="center">🤖 AI / ML</h4>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark&perline=8" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Transformers-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/Natural_Language_Processing-009688?style=for-the-badge" alt="NLP"/>
+  <img src="https://img.shields.io/badge/LLM_Integration-00F7FF?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-F7931E?style=for-the-badge" alt="CV"/>
+</div>
+
+<br/>
+
+<h4 align="center">🚀 DevOps & Tools</h4>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,powershell&theme=dark&perline=8" />
+  </a>
+</div>
+
+<br/>
+
+<!-- SKILL BARS -->
+<h3 align="center">📊 Proficiency</h3>
+
+```text
+Python / AI / ML      ███████████████████░░   90%
+React / Next.js       ██████████████████░░░   85%
+Node.js / FastAPI     ████████████████░░░░░   78%
+NLP & LLM Systems     ██████████████░░░░░░░   72%
+MongoDB / Databases   ████████████████████░   95%
+System Design         █████████████░░░░░░░░   65%
+```
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░  FEATURED PROJECTS  ░░░░░░░░░ -->
+<h2 align="center">🌟 Featured Projects</h2>
+
 <div align="center">
   <a href="https://github.com/UtsavRaj1111/PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=00c6ff,0072ff&text=🧠%20PrepWise&fontSize=35&fontColor=ffffff&fontAlignY=50" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavRaj1111&repo=PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform&theme=tokyonight&border_color=6d28d9&title_color=00F7FF&icon_color=00F7FF&show_owner=false" alt="PrepWise"/>
   </a>
-  <p><i>An AI-driven interview practice system with NLP-powered feedback and performance tracking.</i></p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/NLP-Intelligence-blueviolet?style=flat-square" />
-  </p>
-  <a href="https://github.com/UtsavRaj1111/PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform"><b>View Repository</b></a> • <a href="#"><b>Live Site</b></a>
 </div>
 
-<br/>
-
-<!-- ClassMind Card -->
 <div align="center">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=74ebd5,acb6e5&text=🎓%20ClassMind&fontSize=35&fontColor=ffffff&fontAlignY=50" width="400" />
-  </a>
-  <p><i>A premium educational ecosystem designed to streamline learning workflows and student engagement.</i></p>
-  <p>
-    <img src="https://img.shields.io/badge/Modern_UI-Product-gold?style=flat-square" />
-    <img src="https://img.shields.io/badge/Architecture-Scalable-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/Experience-Premium-brightgreen?style=flat-square" />
-  </p>
-  <a href="#"><b>View Project</b></a>
+
+| 🧠 **PrepWise** — *AI-Driven Interview Platform* |
+|:---:|
+| Full-stack AI platform · Automated mock interviews · ML-powered feedback via NLP · Performance tracking dashboard · Behavioral analytics with MongoDB |
+| **Stack**: `Python` · `FastAPI` · `React` · `Transformers` · `MongoDB` · `Firebase` |
+| [![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UtsavRaj1111/PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform) |
+
 </div>
 
 <br/>
 
-<!-- Story Summarizer Card -->
 <div align="center">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=f093fb,f5576c&text=📖%20Story%20Summarizer&fontSize=35&fontColor=ffffff&fontAlignY=50" width="450" />
+  <a href="https://github.com/UtsavRaj1111/CodeSync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavRaj1111&repo=CodeSync&theme=tokyonight&border_color=6d28d9&title_color=00F7FF&icon_color=00F7FF&show_owner=false" alt="CodeSync"/>
   </a>
-  <p><i>Transforming long narratives into concise, meaningful summaries using state-of-the-art NLP models.</i></p>
-  <p>
-    <img src="https://img.shields.io/badge/AI-Summarization-FF69B4?style=flat-square" />
-    <img src="https://img.shields.io/badge/NLP-Transformers-9370DB?style=flat-square" />
-    <img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square" />
-  </p>
-  <a href="#"><b>View Repository</b></a>
 </div>
 
-<br/>
-
-<!-- Contract Summarizer Card -->
 <div align="center">
-  <a href="https://github.com/UtsavRaj1111/NLP-contract-summarizer-for-rental-agreements">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=2c3e50,000000&text=📄%20Contract%20Summarizer&fontSize=35&fontColor=ffffff&fontAlignY=50" width="450" />
-  </a>
-  <p><i>Simplifying legal jargon by extracting key clauses from rental agreements using Machine Learning.</i></p>
-  <p>
-    <img src="https://img.shields.io/badge/NLP-Natural_Language-2ECC71?style=flat-square" />
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/Legal_Tech-FFD700?style=flat-square" />
-  </p>
-  <a href="https://github.com/UtsavRaj1111/NLP-contract-summarizer-for-rental-agreements"><b>View Repository</b></a>
+
+| 🔥 **CodeSync** — *GitHub Automation Extension* |
+|:---:|
+| Chrome Extension · Auto-pushes LeetCode & HackerRank code to GitHub · Integrated with GitHub REST API · Real-time automation |
+| **Stack**: `JavaScript` · `Chrome Extension API` · `GitHub API` · `CSS` |
+| [![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UtsavRaj1111/CodeSync) |
+
 </div>
 
 <br/>
-
-<p align="center">
-  <a href="https://github.com/UtsavRaj1111?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 
 ---
 
-### 🛠️ Tech Stack
+<!-- ░░░░░░░░░  GITHUB STATS  ░░░░░░░░░ -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=UtsavRaj1111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6d28d9&title_color=00F7FF&icon_color=00F7FF" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavRaj1111&layout=compact&theme=tokyonight&border_color=6d28d9&title_color=00F7FF" alt="Top Langs"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavRaj1111&theme=tokyonight&border=6d28d9&stroke=6d28d9&ring=6d28d9&fire=00F7FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F7FF" alt="Streak Stats"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavRaj1111&theme=tokyo-night&bg_color=1a1b27&color=00F7FF&line=6d28d9&point=ffffff&area_color=6d28d9&area=true&hide_border=false&border_color=6d28d9" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░  LEETCODE  ░░░░░░░░░ -->
+<h2 align="center">🧠 LeetCode Stats</h2>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Utsavrajpratik?theme=dark&font=Karma&ext=contest&width=500" alt="LeetCode Stats"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░  TROPHIES  ░░░░░░░░░ -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.ryo-ma.vercel.app/?username=UtsavRaj1111&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="Trophies"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░  CONNECT  ░░░░░░░░░ -->
+<h2 align="center">📬 Connect With Me</h2>
 
 <div align="center">
 
-  #### 💻 Languages
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css" />
-
-  <br/>
-
-  #### 🤖 Artificial Intelligence & Machine Learning
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,flask,fastapi" />
-
-  <br/>
-
-  #### 🌐 Web & Backend Development
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind" />
-
-  <br/>
-
-  #### 🗄️ Databases & Cloud
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase" />
-
-  <br/>
-
-  #### ⚙️ Tools & DevOps
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma" />
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-raj-pratik-77120a34a/)
+  &nbsp;
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/u/Utsavrajpratik/)
+  &nbsp;
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utsavrajpratik@gmail.com)
+  &nbsp;
+  [![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge)](https://github.com/UtsavRaj1111)
 
 </div>
 
+<br/>
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/utsav-raj-pratik-77120a34a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Utsavrajpratik/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:utsavrajpratik@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<!-- ░░░░░░░░░  PROFILE VIEWS  ░░░░░░░░░ -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=UtsavRaj1111&label=Profile%20Views&color=6d28d9&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/UtsavRaj1111?label=Followers&style=for-the-badge&color=0077B5&logo=github" alt="Followers"/>
+</div>
 
----
+<br/>
 
-### 💻 Coding Vibes & Inspiration
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<!-- ░░░░░░░░░  CONTRIBUTION SNAKE  ░░░░░░░░░ -->
+<h3 align="center">🐍 GitHub Contribution Snake</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/UtsavRaj1111/UtsavRaj1111/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UtsavRaj1111&label=Profile%20Views&color=00F7FF&style=flat-square"/>
-</p>
+<br/>
 
-<p align="center">
-  <b>⭐ Let’s build something impactful together!</b>
-</p>
+<!-- ░░░░░░░░░  RANDOM DEV QUOTE  ░░░░░░░░░ -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░  FOOTER  ░░░░░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
