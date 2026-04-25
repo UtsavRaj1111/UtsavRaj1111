@@ -111,7 +111,7 @@ System Design         █████████████░░░░░░�
 
 <div align="center">
   <a href="https://github.com/UtsavRaj1111/PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavRaj1111&repo=PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform&theme=tokyonight&border_color=6d28d9&title_color=00F7FF&icon_color=00F7FF&show_owner=false" alt="PrepWise"/>
+    <img src="./assets/prepwise_banner.png" width="100%" alt="PrepWise"/>
   </a>
 </div>
 
@@ -129,7 +129,7 @@ System Design         █████████████░░░░░░�
 
 <div align="center">
   <a href="https://github.com/UtsavRaj1111/CodeSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavRaj1111&repo=CodeSync&theme=tokyonight&border_color=6d28d9&title_color=00F7FF&icon_color=00F7FF&show_owner=false" alt="CodeSync"/>
+    <img src="./assets/codesync_banner.png" width="100%" alt="CodeSync"/>
   </a>
 </div>
 
