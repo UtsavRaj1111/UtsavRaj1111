@@ -102,14 +102,31 @@ I am an **AI/ML Engineer** with a passion for building intelligent systems that 
 
 <div align="center">
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,flask,fastapi" /> |
-| **Web / Backend** | <img src="https://skillicons.dev/icons?i=react,nodejs,django,mongodb,mysql" /> |
-| **Tools / DevOps** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" /> |
+  #### 💻 Languages
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css" />
+
+  <br/>
+
+  #### 🤖 Artificial Intelligence & Machine Learning
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,flask,fastapi" />
+
+  <br/>
+
+  #### 🌐 Web & Backend Development
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind" />
+
+  <br/>
+
+  #### 🗄️ Databases & Cloud
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase" />
+
+  <br/>
+
+  #### ⚙️ Tools & DevOps
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma" />
 
 </div>
+
 
 ---
 
