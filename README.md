@@ -1,6 +1,6 @@
-<!-- 🔥 Animated Header -->
+<!-- 🔥 Custom Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Utsav%20Raj%20Pratik&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="./assets/profile_header_banner.png" width="100%" alt="Utsav Raj Pratik Header" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Utsav Raj Pratik</h1>
@@ -38,9 +38,8 @@ I am an **AI/ML Engineer** with a passion for building intelligent systems that 
 <!-- CodeSync Card -->
 <div align="center">
   <a href="https://github.com/UtsavRaj1111/CodeSync">
-    <img src="./assets/codesync_banner.png" width="100%" alt="CodeSync Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🔥%20CodeSync&fontSize=35&fontColor=ffffff&fontAlignY=50" width="400" />
   </a>
-  <h3>🔥 CodeSync – GitHub Automation Extension</h3>
   <p><i>Auto-pushes LeetCode & HackerRank submissions to your GitHub repositories instantly.</i></p>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -56,9 +55,8 @@ I am an **AI/ML Engineer** with a passion for building intelligent systems that 
 <!-- PrepWise Card -->
 <div align="center">
   <a href="https://github.com/UtsavRaj1111/PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform">
-    <img src="./assets/prepwise_banner.png" width="100%" alt="PrepWise Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=00c6ff,0072ff&text=🧠%20PrepWise&fontSize=35&fontColor=ffffff&fontAlignY=50" width="400" />
   </a>
-  <h3>🧠 PrepWise – AI Interview Platform</h3>
   <p><i>An AI-driven interview practice system with NLP-powered feedback and performance tracking.</i></p>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -71,12 +69,43 @@ I am an **AI/ML Engineer** with a passion for building intelligent systems that 
 
 <br/>
 
+<!-- ClassMind Card -->
+<div align="center">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=74ebd5,acb6e5&text=🎓%20ClassMind&fontSize=35&fontColor=ffffff&fontAlignY=50" width="400" />
+  </a>
+  <p><i>A premium educational ecosystem designed to streamline learning workflows and student engagement.</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/Modern_UI-Product-gold?style=flat-square" />
+    <img src="https://img.shields.io/badge/Architecture-Scalable-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/Experience-Premium-brightgreen?style=flat-square" />
+  </p>
+  <a href="#"><b>View Project</b></a>
+</div>
+
+<br/>
+
+<!-- Story Summarizer Card -->
+<div align="center">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=f093fb,f5576c&text=📖%20Story%20Summarizer&fontSize=35&fontColor=ffffff&fontAlignY=50" width="450" />
+  </a>
+  <p><i>Transforming long narratives into concise, meaningful summaries using state-of-the-art NLP models.</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/AI-Summarization-FF69B4?style=flat-square" />
+    <img src="https://img.shields.io/badge/NLP-Transformers-9370DB?style=flat-square" />
+    <img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square" />
+  </p>
+  <a href="#"><b>View Repository</b></a>
+</div>
+
+<br/>
+
 <!-- Contract Summarizer Card -->
 <div align="center">
   <a href="https://github.com/UtsavRaj1111/NLP-contract-summarizer-for-rental-agreements">
-    <img src="./assets/contract_summarizer_banner.png" width="100%" alt="Contract Summarizer Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=2c3e50,000000&text=📄%20Contract%20Summarizer&fontSize=35&fontColor=ffffff&fontAlignY=50" width="450" />
   </a>
-  <h3>📄 NLP Contract Summarizer</h3>
   <p><i>Simplifying legal jargon by extracting key clauses from rental agreements using Machine Learning.</i></p>
   <p>
     <img src="https://img.shields.io/badge/NLP-Natural_Language-2ECC71?style=flat-square" />
