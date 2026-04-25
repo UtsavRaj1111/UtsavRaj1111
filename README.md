@@ -35,32 +35,66 @@ I am an **AI/ML Engineer** with a passion for building intelligent systems that 
 
 ### 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔥 <a href="https://github.com/UtsavRaj1111/CodeSync">CodeSync</a></h4>
-      <p>A GitHub automation extension that auto-pushes LeetCode & HackerRank submissions. Built with JS and GitHub API.</p>
-      <code>JavaScript</code> <code>GitHub API</code> <code>Automation</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 <a href="https://github.com/UtsavRaj1111/PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform">PrepWise</a></h4>
-      <p>An AI-driven interview platform with NLP-powered feedback and performance tracking for career growth.</p>
-      <code>Python</code> <code>NLP</code> <code>React</code> <code>FastAPI</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📄 <a href="https://github.com/UtsavRaj1111/NLP-contract-summarizer-for-rental-agreements">Contract Summarizer</a></h4>
-      <p>Extracts key clauses from rental agreements using NLP and ML to simplify legal understanding.</p>
-      <code>NLP</code> <code>Python</code> <code>Machine Learning</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>✨ More Projects</h4>
-      <p>Explore my other repositories for AI-powered tools and full-stack applications.</p>
-      <a href="https://github.com/UtsavRaj1111?tab=repositories">View All Repositories →</a>
-    </td>
-  </tr>
-</table>
+<!-- CodeSync Card -->
+<div align="center">
+  <a href="https://github.com/UtsavRaj1111/CodeSync">
+    <img src="./assets/codesync_banner.png" width="100%" alt="CodeSync Banner" />
+  </a>
+  <h3>🔥 CodeSync – GitHub Automation Extension</h3>
+  <p><i>Auto-pushes LeetCode & HackerRank submissions to your GitHub repositories instantly.</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Automation-FF6F61?style=flat-square" />
+  </p>
+  <a href="https://github.com/UtsavRaj1111/CodeSync"><b>View Repository</b></a> • <a href="https://github.com/UtsavRaj1111/CodeSync#demo"><b>Watch Demo</b></a>
+</div>
+
+<br/>
+
+<!-- PrepWise Card -->
+<div align="center">
+  <a href="https://github.com/UtsavRaj1111/PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform">
+    <img src="./assets/prepwise_banner.png" width="100%" alt="PrepWise Banner" />
+  </a>
+  <h3>🧠 PrepWise – AI Interview Platform</h3>
+  <p><i>An AI-driven interview practice system with NLP-powered feedback and performance tracking.</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/NLP-Intelligence-blueviolet?style=flat-square" />
+  </p>
+  <a href="https://github.com/UtsavRaj1111/PrepWise-AI-Driven-Interview-Practice-and-Career-Growth-Platform"><b>View Repository</b></a> • <a href="#"><b>Live Site</b></a>
+</div>
+
+<br/>
+
+<!-- Contract Summarizer Card -->
+<div align="center">
+  <a href="https://github.com/UtsavRaj1111/NLP-contract-summarizer-for-rental-agreements">
+    <img src="./assets/contract_summarizer_banner.png" width="100%" alt="Contract Summarizer Banner" />
+  </a>
+  <h3>📄 NLP Contract Summarizer</h3>
+  <p><i>Simplifying legal jargon by extracting key clauses from rental agreements using Machine Learning.</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/NLP-Natural_Language-2ECC71?style=flat-square" />
+    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/Legal_Tech-FFD700?style=flat-square" />
+  </p>
+  <a href="https://github.com/UtsavRaj1111/NLP-contract-summarizer-for-rental-agreements"><b>View Repository</b></a>
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/UtsavRaj1111?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
