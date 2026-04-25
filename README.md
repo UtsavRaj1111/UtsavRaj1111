@@ -128,8 +128,8 @@ System Design         █████████████░░░░░░�
 <br/>
 
 <div align="center">
-  <a href="https://github.com/UtsavRaj1111/CodeSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavRaj1111&repo=CodeSync&theme=tokyonight&border_color=6d28d9&title_color=00F7FF&icon_color=00F7FF&show_owner=false" alt="CodeSync"/>
+  <a href="https://github.com/UtsavRaj1111">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&text=🔥%20CodeSync%20Automation&fontSize=25&fontColor=00F7FF&stroke=6d28d9&strokeWidth=2&width=450&height=100&fontAlignY=50" alt="CodeSync"/>
   </a>
 </div>
 
@@ -139,7 +139,7 @@ System Design         █████████████░░░░░░�
 |:---:|
 | Chrome Extension · Auto-pushes LeetCode & HackerRank code to GitHub · Integrated with GitHub REST API · Real-time automation · Streamlined dev workflow |
 | **Stack**: `JavaScript` · `Chrome Extension API` · `GitHub API` · `CSS 3` · `HTML 5` |
-| [![Source Code](https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UtsavRaj1111/CodeSync) |
+| [![Source Code](https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UtsavRaj1111) |
 
 </div>
 
